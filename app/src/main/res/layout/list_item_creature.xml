@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.constraint.ConstraintLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
 	xmlns:app="http://schemas.android.com/apk/res-auto"
 	xmlns:tools="http://schemas.android.com/tools"
 	android:layout_width="match_parent"
@@ -21,16 +22,27 @@
 		android:id="@+id/fullName"
 		android:layout_width="wrap_content"
 		android:layout_height="wrap_content"
-		android:layout_marginBottom="@dimen/padding_half"
-		android:layout_marginEnd="@dimen/padding_standard"
 		android:layout_marginStart="@dimen/padding_standard"
 		android:layout_marginTop="@dimen/padding_half"
 		android:textColor="@android:color/black"
 		android:textSize="@dimen/creature_name_text_size"
 		android:textStyle="bold"
-		app:layout_constraintBottom_toBottomOf="parent"
+		app:layout_constraintBottom_toTopOf="@+id/nickname"
 		app:layout_constraintStart_toEndOf="@+id/creatureImage"
 		app:layout_constraintTop_toTopOf="parent"
+		app:layout_constraintVertical_chainStyle="packed"
 		tools:text="Full Name" />
+
+	<TextView
+		android:id="@+id/nickname"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginBottom="@dimen/padding_half"
+		android:layout_marginStart="@dimen/padding_standard"
+		app:layout_constraintBottom_toBottomOf="parent"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintStart_toEndOf="@+id/creatureImage"
+		app:layout_constraintTop_toBottomOf="@+id/fullName"
+		tools:text="NickName" />
 
 </android.support.constraint.ConstraintLayout>
