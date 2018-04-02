@@ -10,29 +10,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b48402bf-e3fd-4d0b-8584-eb6d9cd6e40f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/FoodAdapter.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_item_food.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_cardview_v7_27_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_palette_v7_27_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/CreatureCardAdapter.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/CreatureWithFoodAdapter.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_item_creature_card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_item_creature_with_food.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/jarAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/model/CreatureStore.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/model/CreatureStore.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/model/Favorites.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/model/Favorites.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/model/Food.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/model/Food.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/AllFragment.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/AllFragment.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/CreatureActivity.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/CreatureActivity.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/CreatureAdapter.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/CreatureAdapter.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/FavoritesFragment.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/FavoritesFragment.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_creature.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_creature.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_favorites.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_favorites.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/list_item_creature.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_item_creature.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,54 +60,57 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FavoritesFragment.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/FavoritesFragment.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="70" column="1" lean-forward="false" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
-              <folding>
-                <element signature="e#1690#2063#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="67" lean-forward="false" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="dimens.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="323">
+              <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list_item_food.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_food.xml">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="45" lean-forward="false" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+            <state relative-caret-position="665">
+              <caret line="35" column="73" lean-forward="false" selection-start-line="35" selection-start-column="73" selection-end-line="35" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_item_creature_card.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_creature_card.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="931">
+              <caret line="49" column="28" lean-forward="false" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
               <folding>
-                <element signature="e#219#249#0" expanded="true" />
-                <element signature="e#273#303#0" expanded="true" />
-                <element signature="e#371#401#0" expanded="true" />
-                <element signature="e#426#456#0" expanded="true" />
-                <element signature="e#486#526#0" expanded="true" />
+                <element signature="e#371#392#0" expanded="true" />
+                <element signature="e#421#448#0" expanded="true" />
+                <element signature="e#474#497#0" expanded="true" />
+                <element signature="e#953#977#0" expanded="true" />
+                <element signature="e#1003#1027#0" expanded="true" />
+                <element signature="e#1093#1137#0" expanded="true" />
+                <element signature="e#1712#1733#0" expanded="true" />
+                <element signature="e#1888#1920#0" expanded="true" />
               </folding>
             </state>
           </provider>
           <provider editor-type-id="android-designer2">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreatureCardAdapter.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/CreatureCardAdapter.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="891">
+              <caret line="59" column="38" lean-forward="false" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="38" />
+              <folding>
+                <element signature="e#48#565#0" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
@@ -130,17 +134,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Food.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/model/Food.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="36" column="1" lean-forward="false" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FoodAdapter.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FoodAdapter.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/FoodAdapter.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="494">
@@ -152,15 +146,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_creature.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_creature.xml">
+      <file leaf-file-name="list_item_creature_with_food.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_creature_with_food.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1330">
-              <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+            <state relative-caret-position="209">
+              <caret line="11" column="60" lean-forward="false" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
               <folding>
-                <element signature="e#2673#2703#0" expanded="true" />
-                <element signature="e#2734#2759#0" expanded="true" />
-                <element signature="e#2787#2812#0" expanded="true" />
+                <element signature="e#946#980#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -169,11 +161,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AllFragment.kt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CreatureWithFoodAdapter.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/CreatureWithFoodAdapter.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="77" lean-forward="false" selection-start-line="21" selection-start-column="77" selection-end-line="21" selection-end-column="77" />
+              <folding>
+                <element signature="e#48#599#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AllFragment.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/AllFragment.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="60" column="69" lean-forward="false" selection-start-line="60" selection-start-column="69" selection-end-line="60" selection-end-column="69" />
+            <state relative-caret-position="437">
+              <caret line="61" column="81" lean-forward="false" selection-start-line="61" selection-start-column="81" selection-end-line="61" selection-end-column="81" />
               <folding />
             </state>
           </provider>
@@ -184,8 +188,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="layoutResourceFile" />
         <option value="Kotlin File" />
+        <option value="layoutResourceFile" />
       </list>
     </option>
   </component>
@@ -1998,27 +2002,31 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/list_item_creature.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_favorites.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/model/Favorites.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/CreatureAdapter.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/AllFragment.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/FavoritesFragment.kt" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/list_item_food.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/model/Food.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/FoodAdapter.kt" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_creature.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/model/CreatureStore.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/CreatureActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/list_item_creature_with_food.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/CreatureWithFoodAdapter.kt" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/list_item_creature_card.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/CreatureCardAdapter.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/AllFragment.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-421" />
-    <option name="y" value="-1318" />
+    <option name="x" value="-490" />
+    <option name="y" value="-1393" />
     <option name="width" value="2560" />
     <option name="height" value="1346" />
   </component>
@@ -2081,28 +2089,6 @@
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mipmap" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="end" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="menu" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -2120,20 +2106,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="end" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2207,10 +2179,6 @@
               <option name="myItemId" value="creatures" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -2225,6 +2193,14 @@
     <property name="android.project.structure.last.selected" value="app" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="device.picker.selection" value="Pixel_2_API_26" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.raywenderlich.android.creatures.ui" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2573,7 +2549,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-421" y="-1318" width="2560" height="1346" extended-state="0" />
+    <frame x="-490" y="-1393" width="2560" height="1346" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2645,14 +2621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2737,20 +2705,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/AllFragment.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="60" column="69" lean-forward="false" selection-start-line="60" selection-start-column="69" selection-end-line="60" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/FavoritesFragment.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
           <caret line="70" column="1" lean-forward="false" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
           <folding>
-            <element signature="e#1690#2063#0" expanded="true" />
+            <element signature="e#1690#2063#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2759,14 +2719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="67" lean-forward="false" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2834,6 +2786,83 @@
           <folding>
             <element signature="e#48#362#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_creature_with_food.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="60" lean-forward="false" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+          <folding>
+            <element signature="e#946#980#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/CreatureWithFoodAdapter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="77" lean-forward="false" selection-start-line="21" selection-start-column="77" selection-end-line="21" selection-end-column="77" />
+          <folding>
+            <element signature="e#48#599#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="73" lean-forward="false" selection-start-line="35" selection-start-column="73" selection-end-line="35" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_creature_card.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="49" column="28" lean-forward="false" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
+          <folding>
+            <element signature="e#371#392#0" expanded="true" />
+            <element signature="e#421#448#0" expanded="true" />
+            <element signature="e#474#497#0" expanded="true" />
+            <element signature="e#953#977#0" expanded="true" />
+            <element signature="e#1003#1027#0" expanded="true" />
+            <element signature="e#1093#1137#0" expanded="true" />
+            <element signature="e#1712#1733#0" expanded="true" />
+            <element signature="e#1888#1920#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/CreatureCardAdapter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="59" column="38" lean-forward="false" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="38" />
+          <folding>
+            <element signature="e#48#565#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creatures/ui/AllFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="61" column="81" lean-forward="false" selection-start-line="61" selection-start-column="81" selection-end-line="61" selection-end-column="81" />
+          <folding />
         </state>
       </provider>
     </entry>
